@@ -202,5 +202,9 @@
 ```
 ### Hasilnhya
 ![image](https://github.com/rendykml/ass_rendykamaluddin/assets/147012406/c39f0a00-4a60-4182-b857-5778a3120be0)
+## Tampilan dalam github.io
+![image](https://github.com/rendykml/ass_rendykamaluddin/assets/147012406/559034a1-445d-417f-bc63-258ffedb331c)
+### Sudah menjadi web di git.io
+
 
 
