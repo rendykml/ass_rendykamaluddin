@@ -205,6 +205,7 @@
 ## Tampilan dalam github.io
 ![image](https://github.com/rendykml/ass_rendykamaluddin/assets/147012406/559034a1-445d-417f-bc63-258ffedb331c)
 ### Sudah menjadi web di git.io
+https://rendykml.github.io/ass_rendykamaluddin/
 
 
 
